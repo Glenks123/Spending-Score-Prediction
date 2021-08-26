@@ -6,6 +6,6 @@ Dataset Source: https://www.kaggle.com/shwetabh123/mall-customers?select=Mall_Cu
 
 ---
 
-Open the GNU Octave CLI and run:
+Open the GNU Octave CLI; cd to the directory and then run:
 
 ```run main```
